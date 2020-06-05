@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TareaAndroid</string>
+    <string name="Ltrero">REGISTRATE</string>
+    <string name="Nombre">Nombre Completo</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="BtnSiguiente">SIGUIENTE</string>
+    <string name="LetreroConfirma">CONFIRMA TUS DATOS</string>
+    <string name="BtnEdita">EDITAR DATOS</string>
+    <string name="TvNom"><b>Nombre: </b></string>
+    <string name="TvCum"><b>Cumpleaños: </b></string>
+    <string name="TvTel"><b>Tel: </b></string>
+    <string name="TvEma"><b>Email: </b></string>
+    <string name="TvDesc"><b>Descripcion: </b></string>
+</resources>
